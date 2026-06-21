@@ -22,6 +22,11 @@ For this assignment, you will be asked to develop an Android app that displays a
 - A brief write-up explaining the key design decisions and challenges faced during the development process.
 - A video demonstrating the app's functionality.
 
+## Screenshots
+- <img width="431" height="587" alt="Screenshot 2026-06-21 at 12 31 49 PM" src="https://github.com/user-attachments/assets/4f83c0bb-a497-4b9d-9d91-90013c519ede" />
+- <img width="420" height="588" alt="Screenshot 2026-06-21 at 12 31 57 PM" src="https://github.com/user-attachments/assets/fb1a889e-75b3-462c-89b9-e6749f9b6e88" />
+- <img width="408" height="589" alt="Screenshot 2026-06-21 at 12 32 08 PM" src="https://github.com/user-attachments/assets/21b551df-d72c-4771-9ae2-c28700214023" />
+
 
 
 
