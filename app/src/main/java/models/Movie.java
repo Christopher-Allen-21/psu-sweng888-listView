@@ -1,6 +1,8 @@
 package models;
 
-public class Movie {
+import java.io.Serializable;
+
+public class Movie implements Serializable {
 
     private String title;
     private String genre;
@@ -12,8 +14,12 @@ public class Movie {
     private int durationSeconds;
     private String description;
 
-    public Movie(String title, String genre, String director,
-                 int releaseYear, String rating, int durationSeconds,
+    public Movie(String title,
+                 String genre,
+                 String director,
+                 int releaseYear,
+                 String rating,
+                 int durationSeconds,
                  String description) {
         this.title = title;
         this.genre = genre;
